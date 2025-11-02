@@ -1,5 +1,5 @@
 # Active-Directory-Home-Lab
-(project in progress)
+(project in-progress)
 
 ## Objective
 - Create a AD environment to integrate with SOC Home Lab
